@@ -6,7 +6,7 @@ You will research and present an ethical issue related to the Internet and/or Th
 
 TBD by you. See instructions below.
 
-## Requirements
+## Instructions
 
 Do the following:
 
@@ -20,5 +20,5 @@ Do the following:
   - Include links to at least two articles available online that discuss the two sides of this issue you have mentioned.
 
 - Post your first paragraph to the class's Slack workspace, in the `#ethics` channel.
-- No two students are allowed to bring up the same ethical issue... we take a first-come-first-served policy, and it is the duty of all students to verify that no other student has posted the same issue before them.
+- No two students are allowed to bring up the same ethical issue... we take a first-come-first-served policy, and it is the duty of all students to verify that no other student has posted the same issue before them. Claim it in the `#ethics` channel.
 - Prepare to introduce and moderate a short discussion of the issue during the class session.
